@@ -3,11 +3,13 @@
   "version": "6.0.0",
   "description": "LESS parser for PostCSS",
   "license": "MIT",
-  "repository": "shellscape/postcss-less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stylelint-less/postcss-less.git"
+  },
   "author": "Denys Kniazevych <webschik@gmail.com>",
-  "maintainer": "Andrew Powell <andrew@shellscape.org>",
-  "homepage": "https://github.com/shellscape/postcss-less",
-  "bugs": "https://github.com/shellscape/postcss-less/issues",
+  "homepage": "https://github.com/stylelint-less/postcss-less",
+  "bugs": "https://github.com/stylelint-less/postcss-less/issues",
   "main": "lib/index.js",
   "engines": {
     "node": ">=16",
